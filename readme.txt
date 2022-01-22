@@ -4,16 +4,14 @@ A C++ program package for manuscript
 
 Starting and reference models in the inversion of gravity data: application to constrained and joint inversion
 
-submitted to Computers & Geosciences
-
 By 
 
 Shuang Liu(lius@cug.edu.cn), 
 Jamaledin Baniamerian (j.baniamerian@kgut.ac.ir), 
 Maurizio Fedi (fedi@unina.it), 
-Xiangyun Hu (xyhu@cug.edu.cn),
 Mahmoud Ahmed Abbas (mahmoud.ahmedabbasahmed@unina.it), 
-and Mahak Singh Chauhan (mahaksiingh@gmail.com)
+Mahak Singh Chauhan (mahaksiingh@gmail.com)
+Xiangyun Hu (xyhu@cug.edu.cn),
 
 
 Authors information:
